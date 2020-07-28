@@ -1,16 +1,8 @@
-0.0.0.0	.ru
-0.0.0.0	.cn
-0.0.0.0	.gg
-0.0.0.0	.cf
-0.0.0.0	.tk
-0.0.0.0	.ml
-0.0.0.0	.gq
-0.0.0.0	.cf
-0.0.0.0	.ml
-0.0.0.0	.ga
-0.0.0.0	.men
-0.0.0.0	.loan
-0.0.0.0	.date
-0.0.0.0	.top
-0.0.0.0	.bid
-
+0.0.0.0	safebrowsing.googleapis.com
+0.0.0.0	osb-apps-v2.samsungqbe.com
+0.0.0.0	samsungqbe.com
+0.0.0.0	gateway.fe.apple-dns.net
+0.0.0.0	mediaservices.cdn-apple.com
+0.0.0.0	http://toots-a.akamaihd.net/
+0.0.0.0	samsung-eden.wuaki.tv
+0.0.0.0	acr-eu-prd.internetat.tv
